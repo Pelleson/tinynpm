@@ -1,4 +1,14 @@
 {
 	"name": "@alstermo/pelletiny",
-	"version": "1.0.0"
+	"version": "1.0.0",
+	"description": "hola name",
+	"license": "MIT",
+	"repository": "pelleson/tinynpm",
+	"main": "index.js",
+	"keywords": [
+		"tiny",
+		"npm",
+		"package",
+		"pelleson"
+	]
 }
